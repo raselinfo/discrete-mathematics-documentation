@@ -35,3 +35,12 @@
 
 > <b>Compound proposition is proposition formed by combining tow or more simple proposition  
 > Connectives : The logical operators that are used to form compound proposition is called connectives</b>
+
+| Symbol     |          Math Name           |        English Name |
+| ---------- | :--------------------------: | ------------------: |
+| <b> ¬ </b> |           Negation           |                 NOT |
+| <b> ∨ </b> |         Disjunction          |                  OR |
+| <b>∧</b>   |         Conjunction          |                 AND |
+| <b>⊕</b>   |             ExOR             | "OR...but not both" |
+| <b>⇒</b>   |         Implication          |         "if...then" |
+| <b>⟺</b>   | Equivalence / bicondiotional |      "if & only if" |
