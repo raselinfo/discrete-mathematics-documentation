@@ -44,3 +44,16 @@
 | <b>⊕</b>   |             ExOR             | "OR...but not both" |
 | <b>⇒</b>   |         Implication          |         "if...then" |
 | <b>⟺</b>   | Equivalence / bicondiotional |      "if & only if" |
+
+<h2> Example of connectives </h2>
+<b> 1. NOT (¬)</b>
+
+> "Today is Friday" negation of this sentence is "Today is not Friday" or <b> ¬Today is not Friday </b>
+
+<b>Truth Table of ¬ (NOT)</b>
+| P   | <b> ¬P </b> |
+| --- | :---------: |
+| F   |      T      |
+| T   |      F      |
+
+
